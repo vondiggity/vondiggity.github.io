@@ -7,7 +7,7 @@ tags: [MTB, Whiting Ranch]
 
 ## Quick MTB Ride at Whiting Ranch
 
-Just got back from a quick ride at Whiting Ranch in Lake Forest, CA. It’s a great spot for squeezing in a short ride, and the trails are in really good shape after the recent rains. With another round of storms headed our way, I wanted to get out there before everything got too wet again.
+Just got back from a quick ride at [Whiting Ranch](https://ocparks.com/parks-trails/whiting-ranch-wilderness-park) in Lake Forest, CA. It’s a great spot for squeezing in a short ride, and the trails are in really good shape after the recent rains. With another round of storms headed our way, I wanted to get out there before everything got too wet again. You can also access the Cleveland National Forest trails from here, such as the Santiago Truck Trail with the Luge.
 
 
 ### Here's some photos I took from the ride:
