@@ -9,7 +9,8 @@ tags: [test]
 
 - Gotta have a list item.
 - I love lists!
+- Look below for an extra grim frosty image!
 
 
-![an forsaken frosty image](/assets/img/posts/frosty.jpg){: .left }
+![A forsaken frosty image](/assets/img/posts/frosty.jpg){: .left }
 Very frosty!
