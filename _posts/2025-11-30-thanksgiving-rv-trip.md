@@ -10,7 +10,7 @@ tags: [RV, Travel Trailer, Lone Pine, Death Valley]
 
 Over Thanksgiving break, the family and I decided to take the travel trailer out for a quick escape to the Eastern Sierra. We packed up and took the long way to Lone Pine—intentionally. I really don’t enjoy driving through downtown LA, so instead we headed up the 15 to Barstow, then cut across Highway 58 to pick up the 395. It adds a few extra miles, but the tradeoff is absolutely worth it. The drive is calmer, and way less stressful.
 
-We stopped in Barstow to fuel up and grab some snacks, then made the final push     to Lone Pine. We stayed at [Boulder Creek RV Resort] (https://www.bouldercreekrvresort.com), just off 395 and perfectly located near Alabama Hills and Mt. Whitney. It’s a great little park, this was our second stay and one I’d been eyeing for years. 
+We stopped in Barstow to fuel up and grab some snacks, then made the final push     to Lone Pine. We stayed at [Boulder Creek RV Resort](<https://www.bouldercreekrvresort.com>), just off 395 and perfectly located near Alabama Hills and Mt. Whitney. It’s a great little park, this was our second stay and one I’d been eyeing for years. 
 
 On our first full day, we drove up to Mammoth to check out the snow and wander around the Village. We usually visit Mammoth in the summer for mountain biking, so I was curious how winter crowds would compare. Short answer: it was way more crowded than summer. Still fun, but definitely different.
 
