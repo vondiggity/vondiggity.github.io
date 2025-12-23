@@ -1,8 +1,8 @@
 ---
-title: Quick MTB Rides- Whiting Ranch
-date: 2024-12-23 11:49:00 -0800
+title: "Quick MTB Rides- Whiting Ranch"
+date: 2025-12-23 11:49:00 -0800
 categories: [Blogging]
-tags: [MTB] [Whiting Ranch]
+tags: [MTB, Whiting Ranch]
 ---
 
 ## Quick MTB Ride at Whiting Ranch
