@@ -21,7 +21,7 @@ Now, I'm using the Flatpak version of ET Legacy so if you are using the download
 To do this simply run this command with sudo priveledges:
 
 ``` 
-flatpak run --socket=x11 --nosocket=wayland com.etlegacy.ETLegacy
+flatpak override --system --socket=x11 --nosocket=wayland com.etlegacy.ETLegacy
 
 ```
 After that the game should run fine. I'd also recommend putting an alias to the app in your bashrc or zshrc:
